@@ -1,4 +1,5 @@
-# SF-academy-solution
+# SF-academy
+
 
 Realizzare un web server in NodeJs e Typescript che esponga la seguente lista di endpoint:
 
